@@ -2,7 +2,7 @@
 
 Soy programador y docente de programación. Trabajo principalmente con tecnologías web como **PHP, MySQL, JavaScript, HTML y CSS**, aplicando el patrón **MVC** en proyectos educativos y sistemas de gestión.
 
-Durante los últimos años me enfoqué más en desarrollar y enseñar que en mantener una presencia ordenada en GitHub. Actualmente estoy trabajando en mejorar la documentación, estructura y mantenimiento de mis repositorios.
+Durante los últimos años mi foco estuvo en el desarrollo de sistemas y la enseñanza de programación. Actualmente estoy fortaleciendo la documentación, estructura y mantenimiento de mis repositorios.
 
 ## 🛠️ Tecnologías
 
